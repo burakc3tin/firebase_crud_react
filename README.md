@@ -1,7 +1,7 @@
 
 ## React ile Firebase Üzerinden CRUD (Veri Ekleme-Veri Silme-Veri Düzenleme-Veri Listeleme) İşlemleri
 
-  `src/firebase.js` dosyasındaki firebaseConfig kısmını kendinizin ki ile değiştirmelisiniz yoksa çalışmayacaktır. 
+  `src/firebase.js` dosyasındaki firebaseConfig kısmını kendinizinki ile değiştirmelisiniz yoksa çalışmayacaktır. 
 
 ### `Screenshots`
 
