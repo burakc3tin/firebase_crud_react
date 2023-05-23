@@ -1,0 +1,42 @@
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+tr:hover {
+  background-color: #f5f5f5;
+}
+
+/* Form düzeni için CSS */
+.form-container {
+  max-width: 400px;
+  margin: 20px auto;
+  padding: 16px;
+  background-color: #f5f5f5;
+  border-radius: 5px;
+}
+
+.form-container input[type="text"], #kaydet {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+
+#kaydet {
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+#kaydet:hover {
+  background-color: #0d7512;}
